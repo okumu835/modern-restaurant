@@ -1,0 +1,71 @@
+.navbar{
+    background-color: red;
+    margin-right: 50px;
+}
+#heading1{
+    color: white;
+    margin-top: 100px;
+}
+.btn1{
+    background-color: red;
+    height: 50px;
+    width: 100px;
+    border-radius: 15px;
+}
+.food2{
+    margin-top: 100px;
+    height: 300px;
+    width: 400px;
+    padding: 15PX;
+    margin-bottom: 15PX;
+}
+#heading2{
+    color: maroon;
+    margin-top: 60px;
+}
+#about{
+    color: maroon;
+    text-align: center;
+    margin-top: 100px
+}
+.food3{
+   margin-top: 50PX; 
+}
+#section{
+    background-color: lightgray;
+}
+#section2{
+    background-color: maroon;
+}
+.paragraph{
+    color: white;
+
+}
+#heading3{
+    margin-top: 100px;
+}
+#heading4{
+    color: maroon;
+    text-align: center;
+    margin-top: 50px;
+}
+.paragraph4{
+    margin-top: 50px;
+    opacity: 50%;
+
+}
+#heading5{
+    color: maroon;
+    text-align: center;
+}
+.food4{
+    text-align: center;
+}
+.btn4{
+   background-color: maroon;
+   height: 50px; 
+   width: 100px;
+   border-radius: 15px;
+   margin-right: 20px;
+
+}
